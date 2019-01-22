@@ -19,5 +19,9 @@ function fixMe (
 );
 
 /*
-4. 
+4. Write a function, squareNumber, that accepts a number and returns the result of multiplying it by itself (known as squaring the number).
+*/
+
+/*
+5. Write a function, addNumbers, that takes 2 number arguments, adds them, calls squareNumber, and returns the results.
 */
