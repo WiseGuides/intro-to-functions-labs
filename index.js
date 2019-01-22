@@ -1,4 +1,5 @@
 // Intro To Functions Lab
+// Rev. 21Jan2019
 
 /*
 1. Create a function, joinStrings, that accepts 2 strings and joins them using the + operator. (this is known as string concatenation), returning the result.
