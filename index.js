@@ -26,3 +26,7 @@ function fixMe (
 /*
 5. Write a function, addNumbers, that takes 2 number arguments, adds them, calls squareNumber, and returns the results.
 */
+
+/*
+6. Call addNumbers. Does it work as you expected? (For example, if you passed 2 and 3, it should return the number 25)
+*/
